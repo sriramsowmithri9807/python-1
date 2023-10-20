@@ -1,0 +1,80 @@
+Creating a Readme for a Python Tic-Tac-Toe Project
+
+# Tic-Tac-Toe Python Project
+
+![Tic-Tac-Toe](tictactoe.png)
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Prerequisites](#prerequisites)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Features](#features)
+6. [Contributing](#contributing)
+7. [License](#license)
+
+## Introduction
+
+Welcome to the Tic-Tac-Toe Python Project! This simple console-based game allows you to play the classic Tic-Tac-Toe game against a friend or against the computer.
+
+Tic-Tac-Toe, also known as Noughts and Crosses, is a two-player game where the objective is to get three of your symbols (either X or O) in a row, column, or diagonal. This project serves as a fun way to learn and practice Python programming.
+
+## Prerequisites
+
+Before you begin, ensure you have met the following requirements:
+
+- Python 3.5 or higher installed on your system.
+
+## Installation
+
+1. Clone the repository to your local machine:
+   ```bash
+   git clone https://github.com/yourusername/tic-tac-toe.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd tic-tac-toe
+   ```
+
+3. Run the game:
+   ```bash
+   python tic_tac_toe.py
+   ```
+
+## Usage
+
+1. Launch the game by following the installation steps.
+2. Select your game mode:
+   - **2 Player**: Play against a friend. Share the same computer, taking turns.
+   - **1 Player**: Challenge the computer. Try to beat it!
+3. Follow the on-screen prompts to make your moves.
+
+## Features
+
+- Two game modes: 1 Player (against the computer) and 2 Player (against a friend).
+- Player vs. Player mode allows you to play with a friend on the same computer.
+- Computer AI in 1 Player mode with adjustable difficulty levels.
+- Interactive and user-friendly command-line interface.
+- Keeps track of the game's progress, winner, and ties.
+- Error handling for invalid inputs.
+- Easily extensible and customizable for further enhancements.
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+
+1. Fork the repository and clone it to your local machine.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear, descriptive messages.
+4. Push your branch to your fork.
+5. Create a pull request to the main repository, explaining your changes and their purpose.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Enjoy playing Tic-Tac-Toe in Python! If you have any questions, encounter issues, or want to suggest improvements, feel free to reach out to the project maintainers. Have fun coding and gaming!
